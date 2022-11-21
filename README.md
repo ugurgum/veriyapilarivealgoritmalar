@@ -1,1 +1,3 @@
 # veriyapilarivealgoritmalar
+
+www.patika.dev
